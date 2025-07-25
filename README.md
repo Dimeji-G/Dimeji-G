@@ -43,21 +43,21 @@ Fueled by **curiosity** and a deep **passion for problem-solving**, I’m always
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gideonjulian&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dimeji-g&theme=tokyonight&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: '10px'; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gideonjulian&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gideonjulian&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dimeji-g&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimeji-g&theme=tokyonight" width="48%" />
 </div>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideonjulian&layout=compact&theme=tokyonight" width="48%" />
-  <img src='https://github-profile-trophy.vercel.app/?username=gideonjulian&title=Followers,Commits,Stars,PullRequest,Issues,Repositories
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimeji-g&layout=compact&theme=tokyonight" width="48%" />
+  <img src='https://github-profile-trophy.vercel.app/?username=dimeji-g&title=Followers,Commits,Stars,PullRequest,Issues,Repositories
 ' />
 </p>
 
@@ -68,10 +68,10 @@ Fueled by **curiosity** and a deep **passion for problem-solving**, I’m always
 ### 🔗 Let’s Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gideon-chinonso-a53865372" target="_blank">
+  <a href="https://www.linkedin.com/in/dimeji-g" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:gideonchinonso77@gmail.com">
+  <a href="mailto:ukwedjedimeji@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://gideon-olive.vercel.app" target="_blank">

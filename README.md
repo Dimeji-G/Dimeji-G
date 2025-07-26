@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimeji Goodness</h1>
 <p align="center">18-year-old tech enthusiast | Self-taught developer | Passionate about building impactful solutions</p>
 
-<img src="https://raw.githubusercontent.com/gist/gideonjulian/1b7e8d8a25ef9b0c6b682e3ef7e3c8c1/raw/wave.svg" alt="Animated wave" width="100%" />
- 
 ---
-
-### 🚀 About Me
 
 ### 🚀 About Me
 

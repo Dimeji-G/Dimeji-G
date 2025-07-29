@@ -73,14 +73,13 @@ Fueled by **curiosity** and a deep **passion for problem-solving**, I’m always
 ### 📈 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: '10px'; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=dimeji-g&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimeji-G" style=" width:50% " />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimeji-G" style="width:50%;" />
 </div>
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimeji-g&layout=compact&theme=tokyonight" width="48%" />
-  <img src='https://github-profile-trophy.vercel.app/?username=dimeji-g&title=Followers,Commits,Stars,PullRequest,Issues,Repositories
-' />
+  <img src='https://github-profile-trophy.vercel.app/?username=dimeji-g&title=Followers,Commits,Stars,PullRequest,Issues,Repositories' />
 </p>
 
 ---

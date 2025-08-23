@@ -73,7 +73,7 @@ Fueled by **curiosity** and a deep **passion for problem-solving**, I’m always
 ### 📈 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: '10px'; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=dimeji-g&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimeji-G#" style="width:50%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimeji-G" style="width:50%;" />
 </div>
 
 
@@ -95,7 +95,7 @@ Fueled by **curiosity** and a deep **passion for problem-solving**, I’m always
   <a href="mailto:ukwedjedimeji@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://dimroid.engineer" target="_blank">
+  <a href="https://dimroid.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>

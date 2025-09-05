@@ -21,7 +21,7 @@ Fueled by **curiosity** and a deep **drive to solve problems**, I’m constantly
 
 ### 🧰 Tech Stack  
 
-- **Frontend:** React.js, Next.js, React Native, HTML/CSS, Tailwind CSS, Bootstrap  
+- **Frontend:** React.js, React Native, HTML/CSS, Tailwind CSS, Bootstrap  
 - **Backend:** Python (Django, FastAPI, Flask), Node.js, REST/GraphQL APIs  
 - **Automation & Scraping:** Python scripting, Selenium, Scrapy, BeautifulSoup  
 - **Cybersecurity:** Ethical hacking, secure coding, vulnerability testing, threat modeling  
@@ -35,7 +35,7 @@ Fueled by **curiosity** and a deep **drive to solve problems**, I’m constantly
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />

@@ -57,7 +57,7 @@ Fueled by **curiosity** and a deep **drive to solve problems**, I’m constantly
 
 <div align="center" style="display: flex; justify-content: center; gap: '10px'; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=dimeji-g&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimeji-G#&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimeji-G&theme=tokyonight" width="48%" />
 </div>  
 
 <p align="center">

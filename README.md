@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimeji Goodness</h1>
-<p align="center">18-year-old tech builder | Founder of Dimroid | Cybersecurity Fellow | Aspiring Data Scientist</p>
+<p align="center">19-year-old tech builder | Founder of Dimroid | Cybersecurity Fellow | Aspiring Data Scientist</p>
 
 ---
 

@@ -1,3 +1,5 @@
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+Welcome+To+My+Profile;My+Name+Is+Dimeji+Goodness;Full-Stack+Developer+%26+Python+Engineer;Cybersecurity+Fellow+%7C+Aspiring+Data+Scientist;Building+Innovative+Solutions+Since+2020;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Dimeji Goodness</h1>
 <p align="center">19-year-old tech builder | Founder of Dimroid | Cybersecurity Fellow | Aspiring Data Scientist</p>
 
@@ -5,7 +7,7 @@
 
 ### 🚀 About Me  
 
-I'm a **self-taught Full-Stack Developer & Python Engineer** from **Delta State, Nigeria**, with over **4 years of hands-on experience** delivering impactful solutions across **web development, automation, and AI-driven projects**.  
+I'm a **self-taught Full-Stack Developer & Python Engineer** from **Delta State, Nigeria**, with over **4 years of hands-on experience** delivering impactful solutions across **web development, automation, and cybersecurity**.  
 
 I specialize in:  
 - 🌐 **Web Development**: React.js, Next.js, Django, FastAPI, REST APIs  
@@ -15,7 +17,7 @@ I specialize in:
 - ☁️ **Cloud & Deployment**: Docker, CI/CD, Azure, DigitalOcean, Vercel  
 - 🧑‍🏫 **Tutoring & Mentorship**: Taught Python/web development to 100+ students  
 
-Fueled by **curiosity** and a deep **drive to solve problems**, I’m constantly upgrading my skillset — from coding scalable apps to applying AI/ML for real-world impact.  
+Fueled by **curiosity** and a deep **drive to solve problems**, I'm constantly upgrading my skillset — from coding scalable apps to applying AI/ML for real-world impact.  
 
 ---
 
@@ -66,7 +68,7 @@ Fueled by **curiosity** and a deep **drive to solve problems**, I’m constantly
 
 ---
 
-### 🔗 Let’s Connect  
+### 🔗 Let's Connect  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dimeji-g" target="_blank">
@@ -94,5 +96,5 @@ Fueled by **curiosity** and a deep **drive to solve problems**, I’m constantly
 
 ### 🤝 Open to Opportunities  
 
-I’m available for **Full-Stack Development**, **Cybersecurity projects**, **Data Science collaborations**, and **freelance gigs**.  
-Let’s collaborate and build something **transformative** 🚀.  
+I'm available for **Full-Stack Development**, **Cybersecurity projects**, **Data Science collaborations**, and **freelance gigs**.  
+Let's collaborate and build something **transformative** 🚀.  

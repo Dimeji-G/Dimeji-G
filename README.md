@@ -54,17 +54,24 @@ Fueled by **curiosity** and a deep **drive to solve problems**, I'm constantly u
 </p>
 
 ---
-
 ### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dimeji-G/Dimeji-G/main/profile/stats.svg" />
-</p>
+
+<div align="center" style="display: flex; justify-content: center; gap: '10px'; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimeji-g&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimeji-G&theme=tokyonight" width="48%" />
+</div>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dimeji-G/Dimeji-G/main/profile/streak.svg" />
-  <img src="https://raw.githubusercontent.com/Dimeji-G/Dimeji-G/main/profile/top-langs.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimeji-g&layout=compact&theme=tokyonight" width="48%" />
+
 </p>
 
+
+---
+
+### 🐍 My GitHub Contributions Snake
+
+![github-contribution-grid-snake](https://github.com/Dimeji-G/Dimeji-G/blob/output/github-snake.gif?raw=true)
 
 ---
 

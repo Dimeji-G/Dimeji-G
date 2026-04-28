@@ -56,15 +56,15 @@ Fueled by **curiosity** and a deep **drive to solve problems**, I'm constantly u
 ---
 
 ### 📈 GitHub Stats  
-
-<div align="center" style="display: flex; justify-content: center; gap: '10px'; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimeji-g&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimeji-G&theme=tokyonight" width="48%" />
-</div>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dimeji-G/Dimeji-G/main/profile/stats.svg" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimeji-g&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://raw.githubusercontent.com/Dimeji-G/Dimeji-G/main/profile/streak.svg" />
+  <img src="https://raw.githubusercontent.com/Dimeji-G/Dimeji-G/main/profile/top-langs.svg" />
 </p>
+
 
 ---
 
@@ -81,16 +81,6 @@ Fueled by **curiosity** and a deep **drive to solve problems**, I'm constantly u
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimej-g/dimeji-g/master/assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dimeji-g/dimeji-g/master/assets/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dimeji-g/dimeji-g/master/assets/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
